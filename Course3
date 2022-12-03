@@ -9,3 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Vu Truong
+Dynamic Programming
+Course not yet started but I have learned some other courses about this on Linkedin Learning and Udemy. I learned how to first dividing intial problems into sub problems then try with recursive approach first to see the pattern then restructure it into sub problems that use results from the previous ones for solving the next until we come with solution for the big problem.
